@@ -1,5 +1,11 @@
 ---
 title: Welcome to Quartz
+created: 2025-11-17 22:16
+updated: 2025-11-17 22:12
+aliases:
+type:
+category:
+tags:
 ---
 
 ---
