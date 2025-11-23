@@ -34,3 +34,23 @@ class CodeBlock()
 }
 ```
 
+>написал цитату и рад
+
+
+---
+
+
+> [!info] Title
+> Contents
+
+> [!NOTE]+ Title
+> Contents
+
+> [!warning]- Title
+> Contents
+
+
+|     | 1   | 2   |
+| --- | --- | --- |
+| 1   | 11  | 12  |
+| 2   | 21  | 22  |
